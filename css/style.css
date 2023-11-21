@@ -55,6 +55,7 @@ input {
   top: 17px;
   right: 15px;
   color: #808080;
+  cursor: pointer;
 }
 #value-bar {
   background-color: #dcdcdc;
